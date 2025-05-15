@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MT Friday/Scenes/Menu.unity
+    guid: 05734248c17d0184699504380321842e
+  - enabled: 1
+    path: Assets/MT Friday/Scenes/Level1.unity
+    guid: cc28d47ad5aa8c047aaf3f3453ef1bcf
   m_configObjects: {}
